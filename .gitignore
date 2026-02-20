@@ -1,0 +1,8 @@
+venv
+__pycache__/
+*.pyc
+utils/
+app/api_2/__pycache__/
+app/api_2/*.pyc
+app/api_1/__pycache__/
+app/api_1/*.pyc
