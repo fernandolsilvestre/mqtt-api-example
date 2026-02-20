@@ -6,7 +6,10 @@ Um projeto demonstrativo de comunicação bidirecional usando MQTT como middlewa
 
 Este projeto demonstra um sistema de comunicação bidirecional que utiliza o protocolo MQTT para conectar diferentes serviços. O sistema consiste em duas APIs Flask que se comunicam através de um broker MQTT, com um agente intermediário que processa as mensagens e realiza chamadas HTTP.
 
-![image 1](./diagram/image.png) ![image 2](./diagram/image_2.png)
+<p align="center">
+  <img src="./diagram/image.png" width="45%" />
+  <img src="./diagram/image_2.png" width="45%" />
+</p>
 
 ## � O que é MQTT?
 
